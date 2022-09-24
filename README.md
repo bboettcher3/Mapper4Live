@@ -2,7 +2,7 @@
 
 ## Building
 
-Build the libmapper max externals in the mapper-max-pd submodule directory by following the instructions here: https://github.com/bboettcher3/mapper-max-pd/tree/feat/windows_cmake
+Build the libmapper max externals by following the instructions here: https://github.com/bboettcher3/mapper-max-pd/tree/feat/windows_cmake
 
 Once the externals are built, open Max->Options->File Preferences and add the directory where the externals are built (mapper-max-pd/dist by default).
 
